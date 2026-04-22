@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+/archive
+.claude
+CLAUDE.md
+
+# Virtual environments
+.venv
+processed_data.csv
+PresentaciónML-240326.pdf
